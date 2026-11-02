@@ -1,0 +1,7 @@
+servers:
+  - name: "Audience Resolver MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-audience-resolver-mcp-by-nova-civai"
+    package_name: "mcp-audience-resolver-mcp-by-nova-civai"
+    description: "Manage Audience Resolver content calendars, rows, and social scheduling on your AR project."
+    package_type: docker
+    category: "search"

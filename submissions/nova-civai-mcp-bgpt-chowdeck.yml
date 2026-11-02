@@ -1,0 +1,7 @@
+servers:
+  - name: "ChowDeck MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-chowdeck-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-chowdeck-mcp-by-nova-civai"
+    description: "Order food on ChowDeck: browse restaurants, set your delivery address, build a cart, and check out when you are ready."
+    package_type: docker
+    category: "other"

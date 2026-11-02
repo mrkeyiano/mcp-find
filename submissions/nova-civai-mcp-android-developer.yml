@@ -1,0 +1,7 @@
+servers:
+  - name: "Android Developer MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-android_developer-mcp-by-nova-civai"
+    package_name: "mcp-android_developer-mcp-by-nova-civai"
+    description: "Ship a new Android app from chat. AI runs Google Play Console listings, screenshots, releases, uploads, and reviews."
+    package_type: docker
+    category: "devtools"

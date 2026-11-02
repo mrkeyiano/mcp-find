@@ -1,0 +1,7 @@
+servers:
+  - name: "PDF Generator MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-pdf-generator-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-pdf-generator-mcp-by-nova-civai"
+    description: "Create PDF documents from your request. Preview the content first, then download when ready."
+    package_type: docker
+    category: "devtools"
