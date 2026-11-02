@@ -1,0 +1,7 @@
+servers:
+  - name: "Clannit MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-clannit-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-clannit-mcp-by-nova-civai"
+    description: "Create estate guest visit invites and read your Clannit notifications (including past invite codes and times)."
+    package_type: docker
+    category: "devtools"

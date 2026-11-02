@@ -1,0 +1,7 @@
+servers:
+  - name: "CAC Search MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-cacnigeria-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-cacnigeria-mcp-by-nova-civai"
+    description: "Look up Nigerian companies on the Corporate Affairs Commission register."
+    package_type: docker
+    category: "devtools"

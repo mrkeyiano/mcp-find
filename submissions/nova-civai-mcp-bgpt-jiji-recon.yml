@@ -1,0 +1,7 @@
+servers:
+  - name: "Jiji Nigeria MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-jiji-recon-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-jiji-recon-mcp-by-nova-civai"
+    description: "Search and buy on Jiji Nigeria — browse listings, message sellers, and manage your ads."
+    package_type: docker
+    category: "other"

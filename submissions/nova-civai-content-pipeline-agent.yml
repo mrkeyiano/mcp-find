@@ -1,0 +1,7 @@
+servers:
+  - name: "Content Pipeline Agent by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/content-pipeline-agent-mcp-by-nova-civai"
+    package_name: "content-pipeline-agent-mcp-by-nova-civai"
+    description: "I run the Content Pipeline for your Nova products — scan trends, expand seeds into opportunities, generate drafts, publish to your configured destination, and submit for indexing"
+    package_type: docker
+    category: "social"

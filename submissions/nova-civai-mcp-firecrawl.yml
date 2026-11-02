@@ -1,0 +1,7 @@
+servers:
+  - name: "Firecrawl by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-firecrawl-mcp-by-nova-civai"
+    package_name: "mcp-firecrawl-mcp-by-nova-civai"
+    description: "Scrape, crawl, and search the web via Firecrawl’s official hosted MCP."
+    package_type: docker
+    category: "search"

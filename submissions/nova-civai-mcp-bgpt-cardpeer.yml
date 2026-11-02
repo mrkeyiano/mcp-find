@@ -1,0 +1,7 @@
+servers:
+  - name: "Cardpeer MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-cardpeer-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-cardpeer-mcp-by-nova-civai"
+    description: "Find trading cards, compare listings, and check market prices."
+    package_type: docker
+    category: "devtools"

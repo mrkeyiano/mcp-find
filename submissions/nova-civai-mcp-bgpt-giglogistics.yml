@@ -1,0 +1,7 @@
+servers:
+  - name: "Gig Logistics MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-giglogistics-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-giglogistics-mcp-by-nova-civai"
+    description: "Track your Gig Logistics parcels and shipments."
+    package_type: docker
+    category: "devtools"

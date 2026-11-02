@@ -1,0 +1,7 @@
+servers:
+  - name: "Brevo by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-brevo-mcp-by-nova-civai"
+    package_name: "mcp-brevo-mcp-by-nova-civai"
+    description: "Campaigns, contacts, and CRM via Brevo’s official MCP."
+    package_type: docker
+    category: "communication"

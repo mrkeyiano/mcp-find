@@ -1,0 +1,7 @@
+servers:
+  - name: "Deep Research by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-deep-research-mcp-by-nova-civai"
+    package_name: "mcp-deep-research-mcp-by-nova-civai"
+    description: "Iterative research with configurable depth and breadth for complex topics."
+    package_type: docker
+    category: "search"

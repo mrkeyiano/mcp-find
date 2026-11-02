@@ -1,0 +1,7 @@
+servers:
+  - name: "Hacker News MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-hacker_news-mcp-by-nova-civai"
+    package_name: "mcp-hacker_news-mcp-by-nova-civai"
+    description: "Browse Hacker News from chat: top stories, search, read comment threads, and post or upvote when you are signed in."
+    package_type: docker
+    category: "devtools"

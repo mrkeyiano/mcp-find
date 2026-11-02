@@ -1,0 +1,7 @@
+servers:
+  - name: "YarnGPT MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-yarngpt-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-yarngpt-mcp-by-nova-civai"
+    description: "Turn text into speech with Nigerian and African-accented voices."
+    package_type: docker
+    category: "devtools"

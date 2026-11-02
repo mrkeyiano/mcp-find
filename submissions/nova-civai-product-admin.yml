@@ -1,0 +1,7 @@
+servers:
+  - name: "Product Admin by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/product-admin-mcp-by-nova-civai"
+    package_name: "product-admin-mcp-by-nova-civai"
+    description: "I manage your Nova products — create/update/delete, payment & logistics config, icons, webhook secrets, bank-transfer onboarding, and deposit/bank-credit reconciliation"
+    package_type: docker
+    category: "productivity"

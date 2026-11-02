@@ -1,0 +1,7 @@
+servers:
+  - name: "Polymarket MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-polymarket-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-polymarket-mcp-by-nova-civai"
+    description: "Browse prediction markets, check odds, and follow big trades."
+    package_type: docker
+    category: "devtools"

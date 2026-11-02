@@ -1,0 +1,7 @@
+servers:
+  - name: "Instagram Mobile MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-instagram-android-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-instagram-android-mcp-by-nova-civai"
+    description: "Instagram Direct, profiles, search, posts, comments, and likes via mobile API replay."
+    package_type: docker
+    category: "devtools"

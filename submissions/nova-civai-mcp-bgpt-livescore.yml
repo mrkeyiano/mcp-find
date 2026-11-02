@@ -1,0 +1,7 @@
+servers:
+  - name: "LiveScore MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-bgpt-livescore-mcp-by-nova-civai"
+    package_name: "mcp-bgpt-livescore-mcp-by-nova-civai"
+    description: "Live football scores, fixtures, teams, and players."
+    package_type: docker
+    category: "other"
