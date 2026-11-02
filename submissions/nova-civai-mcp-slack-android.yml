@@ -1,0 +1,7 @@
+servers:
+  - name: "Slack MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-slack_android-mcp-by-nova-civai"
+    package_name: "mcp-slack_android-mcp-by-nova-civai"
+    description: "Use Slack from chat: see channels, catch up on messages, post updates, and reply in threads in your signed-in workspace."
+    package_type: docker
+    category: "communication"

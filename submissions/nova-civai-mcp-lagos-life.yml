@@ -1,0 +1,7 @@
+servers:
+  - name: "Lagos Life by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-lagos_life-mcp-by-nova-civai"
+    package_name: "mcp-lagos_life-mcp-by-nova-civai"
+    description: "Play Lagos Life from chat: sign in, see who is on the map, read and send Phone DMs, check daily rewards, and peek at the Forbes rich list — like having a friend help you in the game."
+    package_type: docker
+    category: "devtools"

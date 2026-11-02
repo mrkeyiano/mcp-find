@@ -1,0 +1,7 @@
+servers:
+  - name: "Browser Control MCP by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-browsergpt-browser-control-mcp-by-nova-civai"
+    package_name: "mcp-browsergpt-browser-control-mcp-by-nova-civai"
+    description: "Control your Chrome from chat: open websites, read what's on the page, click buttons, and fill in forms. Works with the BrowserGPT extension on your computer, or a cloud browser if you prefer."
+    package_type: docker
+    category: "devtools"

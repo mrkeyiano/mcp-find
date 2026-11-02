@@ -1,0 +1,7 @@
+servers:
+  - name: "Juicyway by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-juicyway-mcp-by-nova-civai"
+    package_name: "mcp-juicyway-mcp-by-nova-civai"
+    description: "Manage your Juicyway business account from chat: check balances and movements, send bank payouts, view FX rates, and referrals — sign in once in the browser when prompted."
+    package_type: docker
+    category: "devtools"

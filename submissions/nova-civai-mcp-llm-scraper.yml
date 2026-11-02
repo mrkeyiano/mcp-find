@@ -1,0 +1,7 @@
+servers:
+  - name: "LLM Scraper by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-llm-scraper-mcp-by-nova-civai"
+    package_name: "mcp-llm-scraper-mcp-by-nova-civai"
+    description: "Scrape websites by following links and extract structured data from natural language instructions."
+    package_type: docker
+    category: "search"

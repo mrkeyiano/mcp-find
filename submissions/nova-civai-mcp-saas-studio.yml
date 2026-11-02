@@ -1,0 +1,7 @@
+servers:
+  - name: "SaaS Studio by Nova (CIVAI)"
+    github_url: "https://github.com/civai-technologies/mcp-saas_studio-mcp-by-nova-civai"
+    package_name: "mcp-saas_studio-mcp-by-nova-civai"
+    description: "Turn your website into plugins AI assistants can use. SaaS Studio records your product in a real browser, then you can finish setup, connect agents, and go live from chat or from studio.civai.co."
+    package_type: docker
+    category: "devtools"
